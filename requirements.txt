@@ -1,0 +1,10 @@
+langchain
+ipykernel # needed for jupyter
+pypdf
+transformers
+pydantic==1.10.13
+pypdf
+python-multipart
+rouge
+transformers
+datasets
